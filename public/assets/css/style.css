@@ -403,6 +403,7 @@ mainVisual
 
 .mainVisual__title--bottom-sp.second {
 	max-width: 167px;
+	padding: 4px 20px 4px 20px;
 	width: -moz-fit-content;
 	width: fit-content;
 }
@@ -2223,7 +2224,7 @@ footer
 	line-height: 150%; /* 42px */
 	margin-top: 0px;
 	max-width: 320px;
-	padding: 4px 28px;
+	padding: 4px 24px;
 	width: -moz-fit-content;
 	width: fit-content;
 }
@@ -2238,7 +2239,7 @@ footer
 	letter-spacing: 0.64px;
 	line-height: 150%; /* 24px */
 	max-width: 335px;
-	padding: 8px 24px 8px 28px;
+	padding: 8px 24px 8px 24px;
 }
 
 .register__inner {
