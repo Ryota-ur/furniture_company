@@ -1076,15 +1076,19 @@ introduction
 	letter-spacing: 0.96px;
 	line-height: 150%; /* 36px */
 	padding: 4px 8px;
+	height: -moz-fit-content;
+	height: fit-content;
+	width: -moz-fit-content;
+	width: fit-content;
 }
 
 .introduction__box--title-sp.top {
-	max-width: 216px;
+
 }
 
 .introduction__box--title-sp.bottom {
 	margin-top: 8px;
-	max-width: 291px;
+
 }
 
 .introduction__box--title-sp.top.down {
